@@ -14,7 +14,7 @@ export const Projects = () => {
   const projects = [
     {
       title: "Criação e manutenção páginas completas, dashboards.",
-      description: "Desenvolvimento de páginas completas, landing pages para empresas do polo indústrial de manaus; onde consistia em ler dados de sensores dessas empresas e tranformá-los de forma apresentável tanto em pa´ginas Web quanto para dispositovos móveis.",
+      description: "Desenvolvimento de páginas completas, landing pages para empresas do polo industrial de Manaus; onde consistia em ler dados de sensores dessas empresas e transformá-los de forma apresentável tanto em páginas Web quanto para dispositovos móveis.",
       imgUrl: projImg1,
     },
   ];
@@ -22,7 +22,7 @@ export const Projects = () => {
   const projects2 = [
     {
       title: "Plataforma de vagas",
-      description: "Desenvolvimento de uma Plataforma de vagas, contendo cadastro de dados pessoais, acadêmicos e experiêcnias profissionais. Web e mobile.",
+      description: "Desenvolvimento de uma Plataforma de vagas, contendo cadastro de dados pessoais, acadêmicos e experiências profissionais. Web e mobile.",
       imgUrl: projImg2,
     },
     {
